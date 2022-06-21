@@ -1,0 +1,9 @@
+gitlab:
+  initialRootPassword:
+     secret: RELEASE-gitlab-initial-root-password
+     key: password
+  global:
+    hosts:
+      domain: "gitlab.localhost"
+  certmanager-issuer:
+    email: "tilope1112@exoacre.com"

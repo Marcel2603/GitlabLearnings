@@ -3,3 +3,5 @@ gitlab/*
 gitlab/config/*
 !gitlab/config/runner
 !*gitlab/config/runner/config.toml
+.idea
+*/*.zip
